@@ -1,6 +1,10 @@
 #shuttleBackground {
-    background-color: green;
+    background-color: #568203;
     display: inline-block;
     height: 80%;
     width: 40%;
+}
+
+.rocket{
+    right: 2in;
 }
